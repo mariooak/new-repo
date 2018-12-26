@@ -2086,6 +2086,29 @@ h4 {
       border-radius: 5px;
    }
 }
+@media screen and (max-width:360px){
+      .flex-boxa{
+         height: 100%;
+      }
+      header .ol-header {
+         margin: auto;
+         height: 200px;
+      }
+      .title-portfolio{
+         font-size: medium;
+      }
+      h3 {
+         text-align: center;
+      }
+      p {
+         text-align:start;
+         margin: auto;
+      }
+     h1{
+        padding: 0px;
+        text-align: center
+     } 
+}
 
 @media screen and (max-width:320px) {
    .header li :hover {
