@@ -2208,6 +2208,7 @@ h4 {
    .event-pampa {
       margin: auto;
       width: 90%;
+      
    }
    .images-pampa {
       width: 90%;
@@ -2219,7 +2220,7 @@ h4 {
    }
    .box-content-pampa {
       width: auto;
-      height: fit-content;
+      height: 90%;
    }
    .event-caminito {
       margin: auto;
@@ -2332,7 +2333,13 @@ h4 {
         padding: 0px;
         text-align: center
      } 
-}
+   
+   }
+   @media screen and (max-width:362px) {
+   .event-pampa{
+      height: 90%;
+   }   
+   }
 
 @media screen and (max-width:320px) {
    .project-date-2{
