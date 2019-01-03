@@ -175,7 +175,8 @@ ol, ul {
    margin: 20px;
    box-shadow: inset 0 0 10px #1c27ac;
    flex-wrap: wrap;
-   width: fit-content;
+   width: 90%;
+   height: 50%;
    align-self: center;
 }
 
@@ -183,7 +184,11 @@ ol, ul {
    margin: 19.5px;
    margin-top: 20px;
    padding: 10px;
-   height: 250px;
+   height: 50%;
+   width: 50%;
+}
+.project-date-1{
+text-align: justify;
 }
 
 .box4 images-d {
@@ -213,25 +218,36 @@ ol, ul {
    flex-wrap: wrap;
    width: fit-content;
    align-self: center;
+   width: 90%;
+   height: 50%;
+  
 }
 
 .box5 {
    margin: 19.5px;
    margin-top: 20px;
    padding: 10px;
-   height: fit-content;
-   width: fit-content;
+   height: 50%;
+   width: 50%;
 }
 
 .box6 {
    margin-top: 20px;
    margin-bottom: 5px;
-   margin-right: 20px;
+   margin-right: 40px;
    flex-wrap: wrap;
    display: flex;
    width: fit-content;
    height: fit-content;
 }
+.project-date-2{
+   text-align: justify;
+   }
+   
+.box4 images-u {
+   width: 20%;
+}
+
 
 .flex-boxd {
    display: flex;
@@ -245,6 +261,9 @@ ol, ul {
    flex-wrap: wrap;
    width: fit-content;
    align-self: center;
+   width: 90%;
+   height: 50%;
+  
 }
 
 .box7 {
@@ -255,6 +274,9 @@ ol, ul {
    height: fit-content;
    width: 362px;
 }
+.project-date-3{
+   text-align: justify;
+   }
 
 .box8 {
    margin-top: 30px;
@@ -278,6 +300,9 @@ ol, ul {
    flex-wrap: wrap;
    width: fit-content;
    align-self: center;
+   width: 90%;
+   height: 50%;
+  
 }
 
 .box9 {
@@ -288,6 +313,9 @@ ol, ul {
    height: fit-content;
    width: 362px;
 }
+.project-date-4{
+   text-align: justify;
+   }
 
 .box10 {
    margin-top: 30px;
@@ -311,7 +339,11 @@ ol, ul {
    flex-wrap: wrap;
    width: fit-content;
    align-self: center;
+   width: 90%;
+   height: 50%;
+  
 }
+
 
 .box11 {
    margin: 10px;
@@ -321,6 +353,9 @@ ol, ul {
    height: fit-content;
    width: 362px;
 }
+.project-date-5{
+   text-align: justify;
+   }
 
 .box12 {
    margin-top: 30px;
@@ -344,6 +379,9 @@ ol, ul {
    flex-wrap: wrap;
    width: fit-content;
    align-self: center;
+   width: 90%;
+   height: 50%;
+  
 }
 
 .box13 {
@@ -354,6 +392,9 @@ ol, ul {
    height: fit-content;
    width: 362px;
 }
+.project-date-6{
+   text-align: justify;
+   }
 
 .box14 {
    margin-top: 30px;
@@ -377,6 +418,9 @@ ol, ul {
    flex-wrap: wrap;
    width: fit-content;
    align-self: center;
+   width: 90%;
+   height: 50%;
+  
 }
 
 .box15 {
@@ -387,6 +431,9 @@ ol, ul {
    height: fit-content;
    width: 362px;
 }
+.project-date-7{
+   text-align: justify;
+   }
 
 .box16 {
    margin-top: 30px;
@@ -410,6 +457,9 @@ ol, ul {
    flex-wrap: wrap;
    width: fit-content;
    align-self: center;
+   width: 90%;
+   height: 50%;
+  
 }
 
 .box17 {
@@ -420,6 +470,10 @@ ol, ul {
    height: fit-content;
    width: 362px;
 }
+.project-date-8{
+   text-align: justify;
+   }
+
 
 .box18 {
    margin-top: 30px;
@@ -443,6 +497,9 @@ ol, ul {
    flex-wrap: wrap;
    width: fit-content;
    align-self: center;
+   width: 90%;
+   height: 50%;
+  
 }
 
 .box19 {
@@ -453,6 +510,9 @@ ol, ul {
    height: fit-content;
    width: 362px;
 }
+.project-date-9{
+   text-align: justify;
+   }
 
 .box20 {
    margin-top: 30px;
@@ -476,6 +536,9 @@ ol, ul {
    flex-wrap: wrap;
    width: fit-content;
    align-self: center;
+   width: 90%;
+   height: 50%;
+  
 }
 
 .box21 {
@@ -486,6 +549,9 @@ ol, ul {
    height: fit-content;
    width: 362px;
 }
+.project-date-10{
+   text-align: justify;
+   }
 
 .box22 {
    margin-top: 30px;
@@ -509,6 +575,9 @@ ol, ul {
    flex-wrap: wrap;
    width: fit-content;
    align-self: center;
+   width: 90%;
+   height: 50%;
+  
 }
 
 .box23 {
@@ -519,6 +588,10 @@ ol, ul {
    height: fit-content;
    width: 362px;
 }
+.project-date-11{
+   text-align: justify;
+   }
+
 
 .box24 {
    margin-top: 30px;
@@ -542,6 +615,9 @@ ol, ul {
    flex-wrap: wrap;
    width: fit-content;
    align-self: center;
+   width: 90%;
+   height: 50%;
+  
 }
 
 .box25 {
@@ -552,8 +628,49 @@ ol, ul {
    height: fit-content;
    width: 362px;
 }
+.project-date-12{
+   text-align: justify;
+   }
 
 .box26 {
+   margin-top: 30px;
+   margin-bottom: 30px;
+   margin-right: 40px;
+   flex-wrap: wrap;
+   display: flex;
+   width: fit-content;
+   height: fit-content;
+}
+.flex-boxm {
+   display: flex;
+   background: white;
+   border-radius: 20px;
+   border: 1px solid gray;
+   margin: 20px;
+   margin-bottom: 20px;
+   justify-content: space-around;
+   box-shadow: inset 0 0 10px #1c27ac;
+   flex-wrap: wrap;
+   width: fit-content;
+   align-self: center;
+   width: 90%;
+   height: 50%;
+  
+}
+
+.box27 {
+   margin: 10px;
+   margin-top: 20px;
+   padding: 10px;
+   margin-left: 40px;
+   height: fit-content;
+   width: 362px;
+}
+.project-date-13{
+   text-align: justify;
+   }
+
+.box28 {
    margin-top: 30px;
    margin-bottom: 30px;
    margin-right: 40px;
@@ -900,6 +1017,11 @@ h4 {
       width: fit-content;
       margin-right: 10px;
    }
+   .box28 {
+      width: fit-content;
+      margin-right: 10px;
+   }
+   
    .box-p {
       justify-content: center;
       align-items: center;
@@ -1001,6 +1123,14 @@ h4 {
       width: fit-content;
       margin: 10px;
    }
+   .box27 {
+      margin: 0px;
+   }
+   .box28 {
+      width: fit-content;
+      margin: 10px;
+   }
+   
    .box-p {
       justify-content: center;
       align-items: center;
@@ -1060,6 +1190,10 @@ h4 {
    .flex-boxll {
       justify-content: center;
    }
+   .flex-boxm {
+      justify-content: center;
+   }
+  
    .box-p {
       justify-content: center;
       align-items: center;
@@ -1140,6 +1274,10 @@ h4 {
    .flex-boxll {
       justify-content: center;
    }
+   .flex-boxm {
+      justify-content: center;
+   }
+   
    .box25 {
       margin-left: 0px;
    }
@@ -1268,6 +1406,15 @@ h4 {
    .box26 img {
       width: 350px;
    }
+   .box28 {
+      width: fit-content;
+      height: fit-content;
+      margin-bottom: 10px;
+   }
+   .box28 img {
+      width: 350px;
+   }
+   
    .flex-footer {
       display: block;
       width: auto;
@@ -1406,7 +1553,8 @@ h4 {
       height: fit-content;
    }
    .box3 {
-      height: fit-content;
+      height:50%;
+      width: 80%;
    }
    .box4 {
       width: fit-content;
@@ -1416,7 +1564,9 @@ h4 {
       width: 290px;
    }
    .box5 {
-      height: fit-content;
+      height:50%;
+      width: 80%;
+  
    }
    .flex-boxd {
       margin: 10px;
@@ -1473,6 +1623,12 @@ h4 {
       margin-bottom: 20px;
       width: 90%;
    }
+   .flex-boxM {
+      margin: 10px;
+      margin-bottom: 20px;
+      width: 90%;
+   }
+   
    .box4 {
       width: fit-content;
       margin: 2px;
@@ -1504,6 +1660,7 @@ h4 {
       margin: auto;
    }
    .box9 {
+      width: 80%;
       height: fit-content;
    }
    .box10 {
@@ -1516,6 +1673,8 @@ h4 {
    }
    .box11 {
       height: fit-content;
+      width: 80%;
+      
    }
    .box12 {
       width: fit-content;
@@ -1527,6 +1686,8 @@ h4 {
    }
    .box13 {
       height: fit-content;
+      width: 80%;
+      
    }
    .box14 {
       width: fit-content;
@@ -1538,6 +1699,8 @@ h4 {
    }
    .box15 {
       height: fit-content;
+      width: 80%;
+      
    }
    .box16 {
       width: fit-content;
@@ -1549,6 +1712,8 @@ h4 {
    }
    .box17 {
       height: fit-content;
+      width: 80%;
+      
    }
    .box18 {
       width: fit-content;
@@ -1560,6 +1725,8 @@ h4 {
    }
    .box19 {
       height: fit-content;
+      width: 80%;
+      
    }
    .box20 {
       width: fit-content;
@@ -1571,6 +1738,8 @@ h4 {
    }
    .box21 {
       height: fit-content;
+      width: 80%;
+      
    }
    .box22 {
       width: fit-content;
@@ -1582,6 +1751,8 @@ h4 {
    }
    .box23 {
       height: fit-content;
+      width: 80%;
+      
    }
    .box24 {
       width: fit-content;
@@ -1593,6 +1764,8 @@ h4 {
    }
    .box25 {
       height: fit-content;
+      width: 80%;
+      
    }
    .box26 {
       width: fit-content;
@@ -1602,6 +1775,20 @@ h4 {
    .box26 img {
       width: 290px;
    }
+   .box27 {
+      height: fit-content;
+      width: 80%;
+      
+   }
+   .box28 {
+      width: fit-content;
+      margin: 2px;
+      margin-bottom: 15px;
+   }
+   .box28 img {
+      width: 290px;
+   }
+   
    h1 {
       margin: 1px;
    }
@@ -1776,6 +1963,19 @@ h4 {
    .box26 img {
       width: 260px;
    }
+   .flex-boxm {
+      margin: 0px;
+      margin-bottom: 20px;
+      width: 300px;
+   }
+   .box28 {
+      width: fit-content;
+      height: fit-content;
+      margin-bottom: 10px;
+   }
+   .box28 img {
+      width: 260px;
+   }
 }
 
 @media screen and (max-width:425px) {
@@ -1801,6 +2001,9 @@ h4 {
 }
 
 @media screen and (max-width:375px) {
+   .title-portfolio{
+      text-align: center;
+   }
    .header li :hover {
       background: none;
       cursor: none;
@@ -1964,6 +2167,21 @@ h4 {
       width: 95%;
       height: 100%;
    }
+   .flex-boxm {
+      width: 90%;
+   }
+   .box28 {
+      margin: 0px;
+      width: auto;
+      height: auto;
+      margin: 20px;
+      justify-content: center;
+   }
+   .box28 img {
+      width: 95%;
+      height: 100%;
+   }
+   
    .flex-experience {
       width: auto;
    }
@@ -2087,7 +2305,8 @@ h4 {
    }
 }
 @media screen and (max-width:360px){
-      .flex-boxa{
+      
+   .flex-boxa{
          height: 100%;
       }
       header .ol-header {
@@ -2096,6 +2315,7 @@ h4 {
       }
       .title-portfolio{
          font-size: medium;
+         text-align: center;
       }
       h3 {
          text-align: center;
@@ -2111,6 +2331,29 @@ h4 {
 }
 
 @media screen and (max-width:320px) {
+   .project-date-2{
+      text-align: start;
+   }
+   
+   .project-date-3{
+      text-align: start;
+   }
+   .project-date-6{
+      text-align: start;
+   }
+   .project-date-9{
+      text-align: start;
+   }
+   .project-date-10{
+      text-align: start;
+   }
+   .project-date-12{
+      text-align: start;
+   }
+   
+   
+   
+   
    .header li :hover {
       background: none;
       cursor: none;
@@ -2317,7 +2560,7 @@ h4 {
       width: 110%;
       margin: auto;
    }
-   .flex-boxl l {
+   .flex-boxll {
       width: 95%;
       height: fit-content;
       margin: 0px;
@@ -2332,6 +2575,22 @@ h4 {
       width: 110%;
       margin: auto;
    }
+   .flex-boxm {
+      width: 95%;
+      height: fit-content;
+      margin: 0px;
+      margin-bottom: 10px;
+   }
+   .box28 {
+      width: fit-content;
+      height: fit-content;
+      margin-bottom: 10px;
+   }
+   .box28 img {
+      width: 110%;
+      margin: auto;
+   }
+   
    .menu {
       position: fixed;
       background: rgba(5, 111, 255, .9);
@@ -2354,9 +2613,18 @@ h4 {
    h3 {
       text-align: center;
    }
-   p {
+   p  {
       text-align:start;
       margin: auto;
+   }
+   .p-1{
+      text-align: center;
+   }
+   .p-2{
+      text-align: center;
+   }
+   .p-3{
+      text-align: center;
    }
 
 }
