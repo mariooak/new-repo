@@ -2336,7 +2336,13 @@ h4 {
    
    }
    @media screen and (max-width:362px) {
+   .event-tony{
+      height: 90%;
+   }
    .event-pampa{
+      height: 90%;
+   }
+   .event-caminito{
       height: 90%;
    }   
    }
